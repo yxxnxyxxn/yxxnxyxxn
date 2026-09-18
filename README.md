@@ -1,16 +1,6 @@
 <!-- ===== 헤더 ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=CD3764&height=300&section=header&text=yxxnxyxxn&fontColor=CD3764&desc=Backend%20%26amp%3B%20Infra%20Engineer&descAlign=50&descAlignY=75" />
-</div>
-
-<!-- ===== About Me ===== -->
-<h3 align="center">👋 About Me 👋</h3>
-<div align="center">
-
-🎓 &nbsp; 고려대학교 정보대학 컴퓨터학과 · 2027.02 졸업예정<br>
-🗄️ &nbsp; 흩어진 데이터를 **하나의 스키마로 모으고**, 쓰기 경로와 조회 경로를 나눠 설계합니다.<br>
-📈 &nbsp; 성능은 감이 아니라 **계측**으로 판단합니다. Prometheus · Locust 이중 계측 · KCC2026 제1저자<br>
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=CD3764&height=300&section=header&text=yxxnxyxxn&desc=Backend%20%26amp%3B%20Infra%20Engineer&descAlign=50&descAlignY=75" />
 </div>
 
 <br>
@@ -73,7 +63,7 @@
 
 <br>
 
-<h4 align="center">📚 학습 중 (미경험) 📚</h4>
+<h4 align="center">📚 학습 중 📚</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-4a4a4a.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring-4a4a4a.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
@@ -94,13 +84,6 @@
 </div>
 
 <br>
-
-<!-- ===== GitHub Stats ===== -->
-<h3 align="center">📊 GitHub Stats 📊</h3>
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yxxnxyxxn&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxxnxyxxn&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-</div>
 
 <!-- ===== 푸터 ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CD3764&height=120&section=footer" width="100%" />
