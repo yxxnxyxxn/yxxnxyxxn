@@ -1,6 +1,6 @@
 <!-- ===== 헤더 ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=CD3764&height=300&section=header&text=yxxnxyxxn&fontColor=CD3764&desc=Backend%20%7C%20Frontend%20%7C%20Data%20%26amp%3B%20AI&descAlign=50&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=CD3764&height=300&section=header&text=yxxnxyxxn&desc=DevOps%20%7C%20Backend%20%7C%20Frontend%20%7C%20Data%20%26amp%3B%20AI&descAlign=50&descAlignY=75" />
 </div>
 
 </div>
