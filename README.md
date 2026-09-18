@@ -1,16 +1,7 @@
 <!-- ===== 헤더 ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=CD3764&height=300&section=header&text=yxxnxyxxn&fontColor=CD3764&desc=Backend%20%7C%20Frontend%20%7C%20Data%20%26%20AI&descAlign=50&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=CD3764&height=300&section=header&text=yxxnxyxxn&fontColor=CD3764&desc=Backend%20%7C%20Frontend%20%7C%20Data%20%26amp%3B%20AI&descAlign=50&descAlignY=75" />
 </div>
-
-<!-- ===== About Me ===== -->
-<h3 align="center">👋 About Me 👋</h3>
-<div align="center">
-
-<!-- 아래 3줄은 본인 소개로 자유롭게 수정하세요 -->
-🎓 &nbsp; 컴퓨터공학 전공 중입니다.<br>
-🌱 &nbsp; 요즘은 **백엔드**와 **데이터/AI** 를 깊게 파고 있어요.<br>
-💡 &nbsp; 배운 건 코드로 남기고, 남긴 코드는 다시 정리하는 걸 좋아합니다.
 
 </div>
 
@@ -18,6 +9,19 @@
 
 <!-- ===== Tech Stack ===== -->
 <h3 align="center">✨ Tech Stack ✨</h3>
+
+<p align="center"><b>DevOps</b></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/istio-466BB0.svg?style=for-the-badge&logo=istio&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/locust-0C9D58.svg?style=for-the-badge&logo=locust&logoColor=white" />&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />&nbsp
+</div>
+
+<br>
 
 <p align="center"><b>Data & AI</b></p>
 <div align="center">
@@ -69,14 +73,6 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-<br>
-
-<!-- ===== GitHub Stats ===== -->
-<h3 align="center">📊 GitHub Stats 📊</h3>
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yxxnxyxxn&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxxnxyxxn&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-</div>
 
 <!-- ===== 푸터 ===== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CD3764&height=120&section=footer" width="100%" />
